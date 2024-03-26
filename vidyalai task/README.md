@@ -10,14 +10,17 @@
 1. Clone the repository:
    ```powershell
    git clone https://github.com/santhoshk-s/pdf-extractor.git
+   ```
 
 2. Go to backend Folder
    ```powershell
    cd server
+   ```
 
 3. Install dependencies
    ```powershell
    npm i .
+   ```
 
 4.  Run Backend 
 ```powershell
@@ -33,7 +36,7 @@ cd client
 ```powershell
 npm i .
 npm start
-
+```
 
 ## Technologies Used
 
