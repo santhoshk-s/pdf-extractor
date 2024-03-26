@@ -9,7 +9,7 @@
 
 1. Clone the repository:
    ```powershell
-   git clone 
+   git clone https://github.com/santhoshk-s/pdf-extractor.git
 
 2. Go to backend Folder
    ```powershell
