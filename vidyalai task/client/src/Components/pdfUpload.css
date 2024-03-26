@@ -1,0 +1,28 @@
+
+/* .label{
+    padding: 8px 8px;
+    border-radius: 10px;
+    margin-right: 30px;
+    background-color: rgb(92, 241, 54);
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+}
+.label:hover{
+    box-shadow: 1px 1px 10px rgb(130, 127, 127);
+    cursor: pointer;
+} */
+
+.btn{
+    border: none;
+    padding: 8px 8px;
+    border-radius: 10px;
+    background-color:#435fe7;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    margin-left: 10px;
+
+}
+.btn:hover{
+    box-shadow: 1px 1px 10px rgb(130, 127, 127);
+    cursor: pointer;
+}
